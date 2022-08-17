@@ -15,11 +15,11 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    
+
 }
 
 header img {
-    width: 120px;
+   width: 65px;
 }
 
 .search-hd {
