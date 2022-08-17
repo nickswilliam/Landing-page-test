@@ -45,6 +45,12 @@ header img {
     padding-top: 3px; 
 }
 
+header nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 header nav > ul {
     display: flex;
     justify-content: space-between;
